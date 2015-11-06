@@ -209,9 +209,9 @@ while ($total_word_count < 50000)
       elsif ($paragraph_type == 2) { if ($sentence > 0 ) { say " $sentence. ", ucfirst($output); } else { say ucfirst($output); } }
       else { print ucfirst($output), ' '; }
     }
-    say '';
+    say "\n";
   }
-  say '';
+  say "\n";
 }
 
 # Put outro line into novel
