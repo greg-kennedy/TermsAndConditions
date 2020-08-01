@@ -1,6 +1,11 @@
 # TERMS AND CONDITIONS
 *A Legal Thriller*
 
+Greg Kennedy, 2015
+
+## [Read it here.](./SAMPLE.md)
+**NaNoGenMo 2015 issue: <https://github.com/dariusk/NaNoGenMo-2015/issues/144>**
+
 ## What?
 It's an entry for NaNoGenMo 2015 (see: https://github.com/dariusk/NaNoGenMo-2015).  It generates an incomprehensible legal document, and you can sign it if you dare.
 
